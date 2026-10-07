@@ -1,0 +1,2868 @@
+[
+    {
+        "id": "francis-of-assisi",
+        "gender": "male",
+        "name": "St. Francis of Assisi",
+        "feastDay": "October 4",
+        "patronage": "Care for God's creation",
+        "qualities": [
+            "humility",
+            "service",
+            "courage",
+            "love of creation"
+        ],
+        "causes": [
+            "care for creation",
+            "service to others"
+        ],
+        "region": "Europe",
+        "country": "Italy",
+        "lifeThemes": [
+            "conversion",
+            "simplicity",
+            "service"
+        ],
+        "description": "Known for his humility, love of creation, care for the poor, and dedication to following Christ."
+    },
+    {
+        "id": "therese-of-lisieux",
+        "gender": "female",
+        "name": "St. Thérèse of Lisieux",
+        "feastDay": "October 1",
+        "patronage": "Missions",
+        "qualities": [
+            "humility",
+            "simplicity",
+            "faith"
+        ],
+        "causes": [
+            "missions",
+            "prayer"
+        ],
+        "region": "Europe",
+        "country": "France",
+        "lifeThemes": [
+            "trust",
+            "simplicity",
+            "prayer"
+        ],
+        "description": "Known for her simplicity, humility, trust in God, and the spiritual path she called her little way."
+    },
+    {
+        "id": "elizabeth-ann-seton",
+        "gender": "female",
+        "name": "St. Elizabeth Ann Seton",
+        "feastDay": "January 4",
+        "patronage": "Education and sea services",
+        "qualities": [
+            "faith",
+            "courage",
+            "service",
+            "charity"
+        ],
+        "causes": [
+            "education",
+            "helping the poor",
+            "Catholic schools"
+        ],
+        "region": "North America",
+        "country": "United States",
+        "lifeThemes": [
+            "conversion",
+            "education",
+            "charity",
+            "family"
+        ],
+        "description": "Known for her conversion to Catholicism, her dedication to charity, and her pioneering work in Catholic education in the United States."
+    },
+    {
+        "id": "john-neumann",
+        "gender": "male",
+        "name": "St. John Neumann",
+        "feastDay": "January 5",
+        "patronage": "Catholic education",
+        "qualities": [
+            "faith",
+            "service",
+            "courage"
+        ],
+        "causes": [
+            "education",
+            "immigrants",
+            "parish life"
+        ],
+        "region": "North America",
+        "country": "United States",
+        "lifeThemes": [
+            "faith",
+            "education",
+            "service",
+            "mission"
+        ],
+        "description": "Known for his dedication to Catholic education, his service as a bishop, and his work establishing and strengthening Catholic schools."
+    },
+    {
+        "id": "kateri-tekakwitha",
+        "gender": "female",
+        "name": "St. Kateri Tekakwitha",
+        "feastDay": "July 14",
+        "patronage": "Ecology and Native Americans",
+        "qualities": [
+            "faith",
+            "courage",
+            "perseverance"
+        ],
+        "causes": [
+            "care for creation",
+            "Native Americans"
+        ],
+        "region": "North America",
+        "country": "United States",
+        "lifeThemes": [
+            "faith",
+            "perseverance",
+            "simplicity",
+            "devotion"
+        ],
+        "description": "Known for her deep faith, perseverance through hardship, and devotion to Christ."
+    },
+    {
+        "id": "katharine-drexel",
+        "gender": "female",
+        "name": "St. Katharine Drexel",
+        "feastDay": "March 3",
+        "patronage": "Home missions",
+        "qualities": [
+            "faith",
+            "service",
+            "charity",
+            "courage",
+            "generosity"
+        ],
+        "causes": [
+            "education",
+            "missions",
+            "service to the poor"
+        ],
+        "region": "North America",
+        "country": "United States",
+        "lifeThemes": [
+            "mission",
+            "education",
+            "charity",
+            "service"
+        ],
+        "description": "Known for giving up a life of privilege to serve others, founding the Sisters of the Blessed Sacrament, and establishing schools and missions for Native American and African American communities."
+    },
+    {
+        "id": "marianne-cope",
+        "gender": "female",
+        "name": "St. Marianne Cope",
+        "feastDay": "January 23",
+        "patronage": "People with leprosy",
+        "qualities": [
+            "compassion",
+            "service",
+            "courage",
+            "charity",
+            "faith"
+        ],
+        "causes": [
+            "care for the sick",
+            "people with leprosy",
+            "service to others"
+        ],
+        "region": "North America",
+        "country": "United States",
+        "lifeThemes": [
+            "compassion",
+            "service",
+            "sacrifice",
+            "care for the sick"
+        ],
+        "description": "Known for her compassionate service to people with leprosy in Hawaii and for dedicating her life to caring for those who were sick and marginalized."
+    },
+    {
+    "id": "frances-xavier-cabrini",
+    "gender": "female",
+    "name": "St. Frances Xavier Cabrini",
+    "feastDay": "November 13",
+    "patronage": "Immigrants",
+    "qualities": [
+        "faith",
+        "courage",
+        "service",
+        "charity",
+        "perseverance"
+    ],
+    "causes": [
+        "immigrants",
+        "education",
+        "care for the poor",
+        "healthcare"
+    ],
+    "region": "North America",
+    "country": "United States",
+    "lifeThemes": [
+        "mission",
+        "service",
+        "education",
+        "charity",
+        "perseverance"
+    ],
+    "description": "Known for her missionary work among immigrants, her service to the poor and sick, and founding schools and institutions throughout the United States."
+},
+{
+    "id": "teresa-of-calcutta",
+    "gender": "female",
+    "name": "St. Teresa of Calcutta",
+    "feastDay": "September 5",
+    "patronage": "People experiencing poverty",
+    "qualities": [
+        "faith",
+        "compassion",
+        "service",
+        "charity",
+        "humility"
+    ],
+    "causes": [
+        "care for the poor",
+        "care for the sick",
+        "service to others"
+    ],
+    "region": "Asia",
+    "country": "India",
+    "lifeThemes": [
+        "charity",
+        "service",
+        "compassion",
+        "sacrifice"
+    ],
+    "description": "Known for her lifelong service to people experiencing extreme poverty and for founding the Missionaries of Charity."
+},
+{
+    "id": "isidore-of-seville",
+    "gender": "male",
+    "name": "St. Isidore of Seville",
+    "feastDay": "April 4",
+    "patronage": "Internet users",
+    "qualities": [
+        "wisdom",
+        "faith",
+        "service",
+        "love of learning",
+        "courage"
+    ],
+    "causes": [
+        "education",
+        "learning",
+        "evangelization"
+    ],
+    "region": "Europe",
+    "country": "Spain",
+    "lifeThemes": [
+        "learning",
+        "knowledge",
+        "faith",
+        "teaching"
+    ],
+    "description": "Known for his scholarship, teaching, writing, and defense of the faith. His extensive writings helped preserve and organize knowledge for generations."
+},
+{
+    "id": "thomas-aquinas",
+    "gender": "male",
+    "name": "St. Thomas Aquinas",
+    "feastDay": "January 28",
+    "patronage": "Catholic schools and students",
+    "qualities": [
+        "wisdom",
+        "faith",
+        "love of learning",
+        "discipline",
+        "courage"
+    ],
+    "causes": [
+        "education",
+        "theology",
+        "philosophy",
+        "students"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "learning",
+        "truth",
+        "faith",
+        "teaching"
+    ],
+    "description": "Known for his profound theological and philosophical writings and for his dedication to seeking and explaining the truth of the Catholic faith."
+},
+{
+    "id": "maximilian-kolbe",
+    "gender": "male",
+    "name": "St. Maximilian Kolbe",
+    "feastDay": "August 14",
+    "patronage": "Journalists and media communications",
+    "qualities": [
+        "faith",
+        "courage",
+        "charity",
+        "sacrifice",
+        "perseverance"
+    ],
+    "causes": [
+        "evangelization",
+        "media",
+        "family",
+        "service to others"
+    ],
+    "region": "Europe",
+    "country": "Poland",
+    "lifeThemes": [
+        "sacrifice",
+        "faith",
+        "evangelization",
+        "charity"
+    ],
+    "description": "Known for his devotion to the Immaculate Virgin Mary, his missionary work, and his ultimate sacrifice for another prisoner at Auschwitz."
+},
+{
+    "id": "francis-de-sales",
+    "gender": "male",
+    "name": "St. Francis de Sales",
+    "feastDay": "January 24",
+    "patronage": "Catholic writers and journalists",
+    "qualities": [
+        "patience",
+        "wisdom",
+        "faith",
+        "charity",
+        "gentleness"
+    ],
+    "causes": [
+        "writing",
+        "evangelization",
+        "education",
+        "communications"
+    ],
+    "region": "Europe",
+    "country": "France",
+    "lifeThemes": [
+        "teaching",
+        "writing",
+        "evangelization",
+        "gentleness"
+    ],
+    "description": "Known for his gentle approach to evangelization, his spiritual writings, and his dedication to teaching and guiding others in the faith."
+},
+{
+    "id": "clare-of-assisi",
+    "gender": "female",
+    "name": "St. Clare of Assisi",
+    "feastDay": "August 11",
+    "patronage": "Television and communications",
+    "qualities": [
+        "humility",
+        "faith",
+        "simplicity",
+        "courage",
+        "prayer"
+    ],
+    "causes": [
+        "prayer",
+        "poverty",
+        "religious life"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "prayer",
+        "simplicity",
+        "poverty",
+        "devotion"
+    ],
+    "description": "Known for her life of prayer, poverty, and devotion to Christ and for founding the Poor Clares."
+},
+{
+    "id": "john-bosco",
+    "gender": "male",
+    "name": "St. John Bosco",
+    "feastDay": "January 31",
+    "patronage": "Young people and youth workers",
+    "qualities": [
+        "compassion",
+        "faith",
+        "service",
+        "patience",
+        "joy"
+    ],
+    "causes": [
+        "young people",
+        "education",
+        "youth ministry"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "education",
+        "youth",
+        "service",
+        "joy"
+    ],
+    "description": "Known for dedicating his life to educating and caring for young people, especially those who were poor or vulnerable."
+},
+{
+    "id": "josephine-bakhita",
+    "gender": "female",
+    "name": "St. Josephine Bakhita",
+    "feastDay": "February 8",
+    "patronage": "Modern Sudan and human trafficking survivors",
+    "qualities": [
+        "faith",
+        "forgiveness",
+        "courage",
+        "hope",
+        "perseverance"
+    ],
+    "causes": [
+        "freedom",
+        "human dignity",
+        "victims of slavery",
+        "refugees"
+    ],
+    "region": "Africa",
+    "country": "Sudan",
+    "lifeThemes": [
+        "forgiveness",
+        "freedom",
+        "conversion",
+        "hope"
+    ],
+    "description": "Known for her extraordinary journey from slavery to religious life and for her deep faith, forgiveness, and trust in God."
+},
+{
+    "id": "juan-diego",
+    "gender": "male",
+    "name": "St. Juan Diego",
+    "feastDay": "December 9",
+    "patronage": "Indigenous peoples",
+    "qualities": [
+        "humility",
+        "faith",
+        "simplicity",
+        "obedience",
+        "perseverance"
+    ],
+    "causes": [
+        "evangelization",
+        "Indigenous peoples",
+        "faith"
+    ],
+    "region": "North America",
+    "country": "Mexico",
+    "lifeThemes": [
+        "faith",
+        "humility",
+        "evangelization",
+        "devotion"
+    ],
+    "description": "Known for his humility and faith and for his role in the events surrounding the apparitions of Our Lady of Guadalupe."
+},
+{
+    "id": "augustine-of-hippo",
+    "gender": "male",
+    "name": "St. Augustine of Hippo",
+    "feastDay": "August 28",
+    "patronage": "Theologians",
+    "qualities": [
+        "faith",
+        "wisdom",
+        "courage",
+        "love of learning",
+        "perseverance"
+    ],
+    "causes": [
+        "theology",
+        "education",
+        "conversion",
+        "teaching"
+    ],
+    "region": "Africa",
+    "country": "Algeria",
+    "lifeThemes": [
+        "conversion",
+        "truth",
+        "learning",
+        "faith"
+    ],
+    "description": "Known for his conversion to Christianity, his profound theological writings, and his service as bishop of Hippo."
+},
+{
+    "id": "monica",
+    "gender": "female",
+    "name": "St. Monica",
+    "feastDay": "August 27",
+    "patronage": "Mothers",
+    "qualities": [
+        "faith",
+        "patience",
+        "perseverance",
+        "prayer",
+        "hope"
+    ],
+    "causes": [
+        "mothers",
+        "families",
+        "prayer",
+        "conversion"
+    ],
+    "region": "Africa",
+    "country": "Algeria",
+    "lifeThemes": [
+        "prayer",
+        "family",
+        "perseverance",
+        "hope"
+    ],
+    "description": "Known for her persistent prayer and faithful concern for her family, especially her son Augustine, whose conversion she prayed for over many years."
+},
+{
+    "id": "ignatius-of-loyola",
+    "gender": "male",
+    "name": "St. Ignatius of Loyola",
+    "feastDay": "July 31",
+    "patronage": "Spiritual retreats",
+    "qualities": [
+        "faith",
+        "discipline",
+        "courage",
+        "wisdom",
+        "perseverance"
+    ],
+    "causes": [
+        "education",
+        "spiritual retreats",
+        "evangelization",
+        "education of clergy"
+    ],
+    "region": "Europe",
+    "country": "Spain",
+    "lifeThemes": [
+        "conversion",
+        "discernment",
+        "mission",
+        "discipline"
+    ],
+    "description": "Known for his conversion, spiritual exercises, missionary vision, and founding of the Society of Jesus."
+},
+{
+    "id": "teresa-of-avila",
+    "gender": "female",
+    "name": "St. Teresa of Ávila",
+    "feastDay": "October 15",
+    "patronage": "Catholic writers",
+    "qualities": [
+        "faith",
+        "courage",
+        "wisdom",
+        "prayer",
+        "perseverance"
+    ],
+    "causes": [
+        "prayer",
+        "spirituality",
+        "religious life",
+        "writing"
+    ],
+    "region": "Europe",
+    "country": "Spain",
+    "lifeThemes": [
+        "prayer",
+        "conversion",
+        "contemplation",
+        "reform"
+    ],
+    "description": "Known for her deep life of prayer, spiritual writings, and work reforming the Carmelite religious life."
+},
+{
+    "id": "john-of-the-cross",
+    "gender": "male",
+    "name": "St. John of the Cross",
+    "feastDay": "December 14",
+    "patronage": "Contemplatives",
+    "qualities": [
+        "faith",
+        "courage",
+        "patience",
+        "perseverance",
+        "wisdom"
+    ],
+    "causes": [
+        "prayer",
+        "spirituality",
+        "contemplative life",
+        "writing"
+    ],
+    "region": "Europe",
+    "country": "Spain",
+    "lifeThemes": [
+        "prayer",
+        "contemplation",
+        "suffering",
+        "union with God"
+    ],
+    "description": "Known for his mystical writings and his dedication to contemplative prayer and the reform of the Carmelite order."
+},
+{
+    "id": "catherine-of-siena",
+    "gender": "female",
+    "name": "St. Catherine of Siena",
+    "feastDay": "April 29",
+    "patronage": "Europe",
+    "qualities": [
+        "faith",
+        "courage",
+        "wisdom",
+        "service",
+        "perseverance"
+    ],
+    "causes": [
+        "peace",
+        "Church unity",
+        "service to the sick",
+        "theology"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "prayer",
+        "service",
+        "courage",
+        "Church"
+    ],
+    "description": "Known for her intense prayer life, service to the sick and poor, theological writings, and efforts for peace and unity in the Church."
+},
+{
+    "id": "padre-pio",
+    "gender": "male",
+    "name": "St. Pio of Pietrelcina",
+    "feastDay": "September 23",
+    "patronage": "Civil defense volunteers",
+    "qualities": [
+        "faith",
+        "courage",
+        "compassion",
+        "perseverance",
+        "prayer"
+    ],
+    "causes": [
+        "prayer",
+        "confession",
+        "care for the sick",
+        "spiritual direction"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "prayer",
+        "sacrifice",
+        "mercy",
+        "service"
+    ],
+    "description": "Known for his life of prayer, ministry of reconciliation, spiritual guidance, and service to people who were suffering."
+},
+{
+    "id": "andre-bessette",
+    "gender": "male",
+    "name": "St. André Bessette",
+    "feastDay": "January 6",
+    "patronage": "Caregivers",
+    "qualities": [
+        "humility",
+        "faith",
+        "service",
+        "compassion",
+        "perseverance"
+    ],
+    "causes": [
+        "care for the sick",
+        "caregivers",
+        "healing",
+        "prayer"
+    ],
+    "region": "North America",
+    "country": "Canada",
+    "lifeThemes": [
+        "humility",
+        "prayer",
+        "service",
+        "trust"
+    ],
+    "description": "Known for his humble service as a religious brother, his devotion to St. Joseph, and his ministry of prayer and care for people who were sick."
+},
+{
+    "id": "damien-of-molokai",
+    "gender": "male",
+    "name": "St. Damien of Molokai",
+    "feastDay": "May 10",
+    "patronage": "People with leprosy",
+    "qualities": [
+        "faith",
+        "courage",
+        "compassion",
+        "service",
+        "sacrifice"
+    ],
+    "causes": [
+        "people with leprosy",
+        "care for the sick",
+        "marginalized communities",
+        "mission"
+    ],
+    "region": "North America",
+    "country": "United States",
+    "lifeThemes": [
+        "mission",
+        "service",
+        "sacrifice",
+        "compassion"
+    ],
+    "description": "Known for dedicating his life to serving people with leprosy on Molokai and sharing their hardships as a missionary priest."
+},
+{
+    "id": "oscar-romero",
+    "gender": "male",
+    "name": "St. Óscar Romero",
+    "feastDay": "March 24",
+    "patronage": "El Salvador",
+    "qualities": [
+        "faith",
+        "courage",
+        "justice",
+        "service",
+        "compassion"
+    ],
+    "causes": [
+        "human dignity",
+        "the poor",
+        "justice",
+        "peace"
+    ],
+    "region": "Central America",
+    "country": "El Salvador",
+    "lifeThemes": [
+        "justice",
+        "peace",
+        "service",
+        "courage"
+    ],
+    "description": "Known for his pastoral ministry, his concern for the poor and vulnerable, and his defense of human dignity and peace."
+},
+{
+    "id": "patrick",
+    "gender": "male",
+    "name": "St. Patrick",
+    "feastDay": "March 17",
+    "patronage": "Ireland",
+    "qualities": [
+        "faith",
+        "courage",
+        "perseverance",
+        "service",
+        "missionary spirit"
+    ],
+    "causes": [
+        "evangelization",
+        "mission",
+        "Ireland"
+    ],
+    "region": "Europe",
+    "country": "Ireland",
+    "lifeThemes": [
+        "mission",
+        "evangelization",
+        "conversion",
+        "faith"
+    ],
+    "description": "Known for his missionary work in Ireland and for helping establish Christianity there."
+},
+{
+    "id": "nicholas",
+    "gender": "male",
+    "name": "St. Nicholas",
+    "feastDay": "December 6",
+    "patronage": "Children",
+    "qualities": [
+        "charity",
+        "generosity",
+        "compassion",
+        "faith",
+        "service"
+    ],
+    "causes": [
+        "children",
+        "the poor",
+        "charity",
+        "travelers"
+    ],
+    "region": "Europe",
+    "country": "Turkey",
+    "lifeThemes": [
+        "charity",
+        "generosity",
+        "service",
+        "compassion"
+    ],
+    "description": "Known for his generosity and care for people in need and remembered for his charitable acts as a bishop."
+},
+{
+    "id": "lucy-of-syracuse",
+    "gender": "female",
+    "name": "St. Lucy of Syracuse",
+    "feastDay": "December 13",
+    "patronage": "The blind",
+    "qualities": [
+        "faith",
+        "courage",
+        "purity",
+        "perseverance",
+        "hope"
+    ],
+    "causes": [
+        "the blind",
+        "martyrs",
+        "purity"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "faith",
+        "courage",
+        "martyrdom",
+        "devotion"
+    ],
+    "description": "Known for her steadfast faith and courage in remaining faithful to Christ despite persecution and martyrdom."
+},
+{
+    "id": "agatha",
+    "gender": "female",
+    "name": "St. Agatha",
+    "feastDay": "February 5",
+    "patronage": "Breast cancer patients",
+    "qualities": [
+        "faith",
+        "courage",
+        "perseverance",
+        "purity",
+        "hope"
+    ],
+    "causes": [
+        "breast cancer patients",
+        "martyrs",
+        "protection from fire"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "faith",
+        "courage",
+        "martyrdom",
+        "purity"
+    ],
+    "description": "Known for her courage and steadfast faith during persecution and martyrdom."
+},
+{
+    "id": "lawrence",
+    "gender": "male",
+    "name": "St. Lawrence",
+    "feastDay": "August 10",
+    "patronage": "Deacons",
+    "qualities": [
+        "faith",
+        "courage",
+        "service",
+        "charity",
+        "generosity"
+    ],
+    "causes": [
+        "deacons",
+        "the poor",
+        "charity",
+        "service"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "service",
+        "charity",
+        "courage",
+        "martyrdom"
+    ],
+    "description": "Known for his service as a deacon of Rome, his care for the poor, and his courage during persecution."
+},
+{
+    "id": "martin-de-porres",
+    "gender": "male",
+    "name": "St. Martin de Porres",
+    "feastDay": "November 3",
+    "patronage": "Public health workers",
+    "qualities": [
+        "humility",
+        "charity",
+        "compassion",
+        "service",
+        "faith"
+    ],
+    "causes": [
+        "healthcare",
+        "the poor",
+        "racial harmony",
+        "charity"
+    ],
+    "region": "South America",
+    "country": "Peru",
+    "lifeThemes": [
+        "humility",
+        "service",
+        "charity",
+        "compassion"
+    ],
+    "description": "Known for his humble service to the poor and sick and for caring for people regardless of their background."
+},
+{
+    "id": "rose-of-lima",
+    "gender": "female",
+    "name": "St. Rose of Lima",
+    "feastDay": "August 23",
+    "patronage": "Latin America",
+    "qualities": [
+        "faith",
+        "humility",
+        "prayer",
+        "charity",
+        "perseverance"
+    ],
+    "causes": [
+        "Latin America",
+        "the poor",
+        "prayer",
+        "penitents"
+    ],
+    "region": "South America",
+    "country": "Peru",
+    "lifeThemes": [
+        "prayer",
+        "sacrifice",
+        "charity",
+        "devotion"
+    ],
+    "description": "Known for her deep prayer life, humility, care for the poor, and dedication to Christ."
+},
+{
+    "id": "bernadette-soubirous",
+    "gender": "female",
+    "name": "St. Bernadette Soubirous",
+    "feastDay": "April 16",
+    "patronage": "The sick",
+    "qualities": [
+        "humility",
+        "faith",
+        "patience",
+        "courage",
+        "perseverance"
+    ],
+    "causes": [
+        "the sick",
+        "pilgrims",
+        "Lourdes"
+    ],
+    "region": "Europe",
+    "country": "France",
+    "lifeThemes": [
+        "humility",
+        "faith",
+        "suffering",
+        "devotion"
+    ],
+    "description": "Known for her humility and faith and for the apparitions of the Virgin Mary that she reported at Lourdes."
+},
+{
+    "id": "francis-xavier",
+    "gender": "male",
+    "name": "St. Francis Xavier",
+    "feastDay": "December 3",
+    "patronage": "Missions",
+    "qualities": [
+        "faith",
+        "courage",
+        "service",
+        "perseverance",
+        "missionary spirit"
+    ],
+    "causes": [
+        "missions",
+        "evangelization",
+        "missionaries"
+    ],
+    "region": "Asia",
+    "country": "India",
+    "lifeThemes": [
+        "mission",
+        "evangelization",
+        "travel",
+        "faith"
+    ],
+    "description": "Known for his extensive missionary work in Asia and his dedication to bringing the Gospel to people in distant lands."
+},
+{
+    "id": "marie-marguerite-dyouville",
+    "gender": "female",
+    "name": "St. Marie-Marguerite d'Youville",
+    "feastDay": "December 23",
+    "patronage": "Widows",
+    "qualities": [
+        "charity",
+        "compassion",
+        "service",
+        "perseverance",
+        "faith"
+    ],
+    "causes": [
+        "widows",
+        "the poor",
+        "orphans",
+        "healthcare"
+    ],
+    "region": "North America",
+    "country": "Canada",
+    "lifeThemes": [
+        "charity",
+        "service",
+        "compassion",
+        "perseverance"
+    ],
+    "description": "Known for her dedication to caring for the poor, sick, elderly, widows, and orphans and for founding the Grey Nuns."
+},
+{
+    "id": "benedict",
+    "gender": "male",
+    "name": "St. Benedict",
+    "feastDay": "July 11",
+    "patronage": "Europe",
+    "qualities": [
+        "faith",
+        "discipline",
+        "wisdom",
+        "humility",
+        "perseverance"
+    ],
+    "causes": [
+        "monastic life",
+        "Europe",
+        "prayer",
+        "spiritual formation"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "prayer",
+        "discipline",
+        "community",
+        "service"
+    ],
+    "description": "Known for establishing the Benedictine way of monastic life and for his Rule, which has profoundly influenced Christian religious life."
+},
+{
+    "id": "scholastica",
+    "gender": "female",
+    "name": "St. Scholastica",
+    "feastDay": "February 10",
+    "patronage": "Benedictine nuns",
+    "qualities": [
+        "faith",
+        "prayer",
+        "humility",
+        "devotion",
+        "perseverance"
+    ],
+    "causes": [
+        "religious life",
+        "prayer",
+        "Benedictine spirituality"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "prayer",
+        "devotion",
+        "religious life",
+        "community"
+    ],
+    "description": "Known as the twin sister of St. Benedict and for her life of prayer and dedication to God."
+},
+{
+    "id": "anthony-of-padua",
+    "gender": "male",
+    "name": "St. Anthony of Padua",
+    "feastDay": "June 13",
+    "patronage": "Lost items",
+    "qualities": [
+        "faith",
+        "wisdom",
+        "courage",
+        "service",
+        "love of learning"
+    ],
+    "causes": [
+        "preaching",
+        "evangelization",
+        "the poor",
+        "lost items"
+    ],
+    "region": "Europe",
+    "country": "Portugal",
+    "lifeThemes": [
+        "preaching",
+        "evangelization",
+        "learning",
+        "faith"
+    ],
+    "description": "Known for his powerful preaching, deep knowledge of Scripture, and dedication to teaching and serving others."
+},
+{
+    "id": "dominic",
+    "gender": "male",
+    "name": "St. Dominic",
+    "feastDay": "August 8",
+    "patronage": "Astronomers",
+    "qualities": [
+        "faith",
+        "discipline",
+        "courage",
+        "wisdom",
+        "service"
+    ],
+    "causes": [
+        "preaching",
+        "evangelization",
+        "education",
+        "religious life"
+    ],
+    "region": "Europe",
+    "country": "Spain",
+    "lifeThemes": [
+        "preaching",
+        "truth",
+        "mission",
+        "education"
+    ],
+    "description": "Known for his preaching, dedication to the truth of the faith, and founding of the Order of Preachers."
+},
+{
+    "id": "catherine-laboure",
+    "gender": "female",
+    "name": "St. Catherine Labouré",
+    "feastDay": "November 28",
+    "patronage": "The Miraculous Medal",
+    "qualities": [
+        "humility",
+        "faith",
+        "prayer",
+        "simplicity",
+        "devotion"
+    ],
+    "causes": [
+        "prayer",
+        "Marian devotion",
+        "charity"
+    ],
+    "region": "Europe",
+    "country": "France",
+    "lifeThemes": [
+        "prayer",
+        "humility",
+        "devotion",
+        "service"
+    ],
+    "description": "Known for her humble life as a Daughter of Charity and for the apparitions associated with the Miraculous Medal."
+},
+{
+    "id": "elizabeth-of-hungary",
+    "gender": "female",
+    "name": "St. Elizabeth of Hungary",
+    "feastDay": "November 17",
+    "patronage": "Charitable organizations",
+    "qualities": [
+        "charity",
+        "compassion",
+        "humility",
+        "service",
+        "generosity"
+    ],
+    "causes": [
+        "the poor",
+        "charity",
+        "hospitals",
+        "families"
+    ],
+    "region": "Europe",
+    "country": "Hungary",
+    "lifeThemes": [
+        "charity",
+        "service",
+        "simplicity",
+        "compassion"
+    ],
+    "description": "Known for giving generously to the poor and sick and for dedicating herself to a life of charitable service."
+},
+{
+    "id": "vincent-de-paul",
+    "gender": "male",
+    "name": "St. Vincent de Paul",
+    "feastDay": "September 27",
+    "patronage": "Charitable societies",
+    "qualities": [
+        "charity",
+        "compassion",
+        "service",
+        "humility",
+        "leadership"
+    ],
+    "causes": [
+        "the poor",
+        "charity",
+        "clergy formation",
+        "service"
+    ],
+    "region": "Europe",
+    "country": "France",
+    "lifeThemes": [
+        "charity",
+        "service",
+        "leadership",
+        "compassion"
+    ],
+    "description": "Known for organizing extensive charitable works, caring for the poor, and founding communities dedicated to service."
+},
+{
+    "id": "louise-de-marillac",
+    "gender": "female",
+    "name": "St. Louise de Marillac",
+    "feastDay": "March 15",
+    "patronage": "Social workers",
+    "qualities": [
+        "charity",
+        "compassion",
+        "service",
+        "leadership",
+        "faith"
+    ],
+    "causes": [
+        "the poor",
+        "social workers",
+        "healthcare",
+        "education"
+    ],
+    "region": "Europe",
+    "country": "France",
+    "lifeThemes": [
+        "charity",
+        "service",
+        "leadership",
+        "compassion"
+    ],
+    "description": "Known for organizing charitable service and for co-founding the Daughters of Charity with St. Vincent de Paul."
+},
+{
+    "id": "camillus-de-lellis",
+    "gender": "male",
+    "name": "St. Camillus de Lellis",
+    "feastDay": "July 18",
+    "patronage": "Hospitals and nurses",
+    "qualities": [
+        "compassion",
+        "service",
+        "charity",
+        "faith",
+        "courage"
+    ],
+    "causes": [
+        "healthcare",
+        "hospitals",
+        "nurses",
+        "care for the sick"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "conversion",
+        "service",
+        "compassion",
+        "care for the sick"
+    ],
+    "description": "Known for dedicating his life to caring for the sick and founding a religious community devoted to healthcare."
+},
+{
+    "id": "rita-of-cascia",
+    "gender": "female",
+    "name": "St. Rita of Cascia",
+    "feastDay": "May 22",
+    "patronage": "Impossible causes",
+    "qualities": [
+        "faith",
+        "patience",
+        "forgiveness",
+        "perseverance",
+        "hope"
+    ],
+    "causes": [
+        "difficult situations",
+        "marriages",
+        "families",
+        "forgiveness"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "forgiveness",
+        "suffering",
+        "perseverance",
+        "prayer"
+    ],
+    "description": "Known for her perseverance through difficult circumstances, her commitment to forgiveness, and her life of prayer as a wife, mother, widow, and religious."
+},
+{
+    "id": "joan-of-arc",
+    "gender": "female",
+    "name": "St. Joan of Arc",
+    "feastDay": "May 30",
+    "patronage": "France",
+    "qualities": [
+        "faith",
+        "courage",
+        "perseverance",
+        "leadership",
+        "devotion"
+    ],
+    "causes": [
+        "France",
+        "soldiers",
+        "courage",
+        "faith"
+    ],
+    "region": "Europe",
+    "country": "France",
+    "lifeThemes": [
+        "faith",
+        "courage",
+        "mission",
+        "leadership"
+    ],
+    "description": "Known for her extraordinary courage, deep faith, and role in the history of France. She believed she was called to help her country during a time of war."
+},
+{
+    "id": "george",
+    "gender": "male",
+    "name": "St. George",
+    "feastDay": "April 23",
+    "patronage": "Soldiers",
+    "qualities": [
+        "faith",
+        "courage",
+        "perseverance",
+        "strength"
+    ],
+    "causes": [
+        "soldiers",
+        "courage",
+        "martyrs"
+    ],
+    "region": "Europe",
+    "country": "Palestine",
+    "lifeThemes": [
+        "faith",
+        "courage",
+        "martyrdom",
+        "perseverance"
+    ],
+    "description": "Known in Christian tradition as a martyr who remained faithful to Christ despite persecution."
+},
+{
+    "id": "christopher",
+    "gender": "male",
+    "name": "St. Christopher",
+    "feastDay": "July 25",
+    "patronage": "Travelers",
+    "qualities": [
+        "faith",
+        "service",
+        "courage",
+        "perseverance"
+    ],
+    "causes": [
+        "travelers",
+        "pilgrims",
+        "transportation",
+        "safe travel"
+    ],
+    "region": "Unknown",
+    "country": "Unknown",
+    "lifeThemes": [
+        "service",
+        "faith",
+        "journey",
+        "perseverance"
+    ],
+    "description": "Traditionally remembered as a Christian martyr and associated with carrying a child across a river, a story that became connected with his patronage of travelers."
+},
+{
+    "id": "joseph",
+    "gender": "male",
+    "name": "St. Joseph",
+    "feastDay": "March 19",
+    "patronage": "Workers",
+    "qualities": [
+        "humility",
+        "faith",
+        "courage",
+        "service",
+        "patience"
+    ],
+    "causes": [
+        "workers",
+        "fathers",
+        "families",
+        "the universal Church"
+    ],
+    "region": "Middle East",
+    "country": "Israel",
+    "lifeThemes": [
+        "family",
+        "work",
+        "obedience",
+        "protection"
+    ],
+    "description": "Known as the husband of Mary and foster father of Jesus, St. Joseph is remembered for his quiet faith, obedience, protection of his family, and work as a carpenter."
+},
+{
+    "id": "joachim",
+    "gender": "male",
+    "name": "St. Joachim",
+    "feastDay": "July 26",
+    "patronage": "Fathers and grandparents",
+    "qualities": [
+        "faith",
+        "patience",
+        "family",
+        "perseverance",
+        "hope"
+    ],
+    "causes": [
+        "fathers",
+        "grandparents",
+        "families",
+        "parents"
+    ],
+    "region": "Middle East",
+    "country": "Israel",
+    "lifeThemes": [
+        "family",
+        "parenthood",
+        "faith",
+        "hope"
+    ],
+    "description": "Traditionally honored as the father of the Blessed Virgin Mary and the husband of St. Anne."
+},
+{
+    "id": "anne",
+    "gender": "female",
+    "name": "St. Anne",
+    "feastDay": "July 26",
+    "patronage": "Mothers and grandparents",
+    "qualities": [
+        "faith",
+        "patience",
+        "family",
+        "hope",
+        "perseverance"
+    ],
+    "causes": [
+        "mothers",
+        "grandparents",
+        "families",
+        "parents"
+    ],
+    "region": "Middle East",
+    "country": "Israel",
+    "lifeThemes": [
+        "family",
+        "parenthood",
+        "faith",
+        "hope"
+    ],
+    "description": "Traditionally honored as the mother of the Blessed Virgin Mary and grandmother of Jesus."
+},
+{
+    "id": "martha",
+    "gender": "female",
+    "name": "St. Martha",
+    "feastDay": "July 29",
+    "patronage": "Homemakers",
+    "qualities": [
+        "service",
+        "faith",
+        "hospitality",
+        "courage",
+        "love"
+    ],
+    "causes": [
+        "hospitality",
+        "families",
+        "homemakers",
+        "service"
+    ],
+    "region": "Middle East",
+    "country": "Israel",
+    "lifeThemes": [
+        "service",
+        "hospitality",
+        "faith",
+        "family"
+    ],
+    "description": "Known from the Gospel accounts as the sister of Mary and Lazarus and for welcoming Jesus into her home."
+},
+{
+    "id": "mary-magdalene",
+    "gender": "female",
+    "name": "St. Mary Magdalene",
+    "feastDay": "July 22",
+    "patronage": "Penitents",
+    "qualities": [
+        "faith",
+        "devotion",
+        "courage",
+        "love",
+        "perseverance"
+    ],
+    "causes": [
+        "evangelization",
+        "penitents",
+        "women",
+        "witness"
+    ],
+    "region": "Middle East",
+    "country": "Israel",
+    "lifeThemes": [
+        "conversion",
+        "discipleship",
+        "witness",
+        "devotion"
+    ],
+    "description": "A devoted disciple of Jesus who witnessed his crucifixion and became one of the first witnesses to the Resurrection."
+},
+{
+    "id": "thomas-more",
+    "gender": "male",
+    "name": "St. Thomas More",
+    "feastDay": "June 22",
+    "patronage": "Statesmen and politicians",
+    "qualities": [
+        "faith",
+        "courage",
+        "wisdom",
+        "integrity",
+        "perseverance"
+    ],
+    "causes": [
+        "conscience",
+        "public service",
+        "law",
+        "family"
+    ],
+    "region": "Europe",
+    "country": "England",
+    "lifeThemes": [
+        "conscience",
+        "truth",
+        "family",
+        "faith"
+    ],
+    "description": "Known for his public service, legal scholarship, devotion to his family, and willingness to suffer martyrdom rather than act against his conscience."
+},
+{
+    "id": "john-henry-newman",
+    "gender": "male",
+    "name": "St. John Henry Newman",
+    "feastDay": "October 9",
+    "patronage": "Education",
+    "qualities": [
+        "faith",
+        "wisdom",
+        "courage",
+        "love of learning",
+        "perseverance"
+    ],
+    "causes": [
+        "education",
+        "theology",
+        "conversion",
+        "students"
+    ],
+    "region": "Europe",
+    "country": "England",
+    "lifeThemes": [
+        "conversion",
+        "truth",
+        "education",
+        "faith"
+    ],
+    "description": "Known for his conversion to Catholicism, theological and educational work, and writings on faith, conscience, and the pursuit of truth."
+},
+{
+    "id": "gregory-the-great",
+    "gender": "male",
+    "name": "St. Gregory the Great",
+    "feastDay": "September 3",
+    "patronage": "Musicians and singers",
+    "qualities": [
+        "wisdom",
+        "faith",
+        "leadership",
+        "service",
+        "humility"
+    ],
+    "causes": [
+        "music",
+        "education",
+        "evangelization",
+        "Church leadership"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "leadership",
+        "service",
+        "teaching",
+        "evangelization"
+    ],
+    "description": "Known for his leadership as pope, his writings on pastoral care, his missionary efforts, and his contributions to the development of Christian worship."
+},
+{
+    "id": "leo-the-great",
+    "gender": "male",
+    "name": "St. Leo the Great",
+    "feastDay": "November 10",
+    "patronage": "Popes",
+    "qualities": [
+        "faith",
+        "wisdom",
+        "courage",
+        "leadership",
+        "perseverance"
+    ],
+    "causes": [
+        "Church leadership",
+        "Christian unity",
+        "theology",
+        "peace"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "leadership",
+        "faith",
+        "unity",
+        "courage"
+    ],
+    "description": "Known for his leadership as pope, defense of Catholic teaching, and efforts to preserve unity and peace in the Church."
+},
+{
+    "id": "jerome",
+    "gender": "male",
+    "name": "St. Jerome",
+    "feastDay": "September 30",
+    "patronage": "Translators and biblical scholars",
+    "qualities": [
+        "wisdom",
+        "faith",
+        "love of learning",
+        "discipline",
+        "perseverance"
+    ],
+    "causes": [
+        "Scripture",
+        "translation",
+        "scholarship",
+        "education"
+    ],
+    "region": "Europe",
+    "country": "Croatia",
+    "lifeThemes": [
+        "learning",
+        "Scripture",
+        "prayer",
+        "scholarship"
+    ],
+    "description": "Known for his biblical scholarship and for translating Scripture into Latin in the work that became known as the Vulgate."
+},
+{
+    "id": "ambrose",
+    "gender": "male",
+    "name": "St. Ambrose",
+    "feastDay": "December 7",
+    "patronage": "Beekeepers",
+    "qualities": [
+        "faith",
+        "wisdom",
+        "leadership",
+        "courage",
+        "charity"
+    ],
+    "causes": [
+        "theology",
+        "teaching",
+        "the poor",
+        "Church leadership"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "teaching",
+        "leadership",
+        "faith",
+        "charity"
+    ],
+    "description": "Known for his preaching and teaching, care for the poor, theological writings, and influence as bishop of Milan."
+},
+{
+    "id": "lawrence-justinian",
+    "gender": "male",
+    "name": "St. Lawrence Justinian",
+    "feastDay": "January 8",
+    "patronage": "Venice",
+    "qualities": [
+        "humility",
+        "faith",
+        "prayer",
+        "wisdom",
+        "service"
+    ],
+    "causes": [
+        "prayer",
+        "pastoral ministry",
+        "Church leadership",
+        "reform"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "prayer",
+        "humility",
+        "service",
+        "pastoral care"
+    ],
+    "description": "Known for his life of prayer, pastoral service, reform, and leadership as the first patriarch of Venice."
+},
+{
+    "id": "philip-neri",
+    "gender": "male",
+    "name": "St. Philip Neri",
+    "feastDay": "May 26",
+    "patronage": "Joy",
+    "qualities": [
+        "joy",
+        "faith",
+        "humility",
+        "charity",
+        "service"
+    ],
+    "causes": [
+        "youth",
+        "education",
+        "confession",
+        "evangelization"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "joy",
+        "evangelization",
+        "prayer",
+        "community"
+    ],
+    "description": "Known for his joyful approach to Christian life, dedication to young people, ministry of confession, and founding of the Congregation of the Oratory."
+},
+{
+    "id": "charles-borromeo",
+    "gender": "male",
+    "name": "St. Charles Borromeo",
+    "feastDay": "November 4",
+    "patronage": "Catechists",
+    "qualities": [
+        "faith",
+        "leadership",
+        "discipline",
+        "service",
+        "charity"
+    ],
+    "causes": [
+        "catechesis",
+        "seminary education",
+        "Church reform",
+        "the poor"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "leadership",
+        "reform",
+        "education",
+        "service"
+    ],
+    "description": "Known for his leadership during the Catholic reform of the sixteenth century, his work in seminaries and catechesis, and his service to the poor."
+},
+{
+    "id": "john-vianney",
+    "gender": "male",
+    "name": "St. John Vianney",
+    "feastDay": "August 4",
+    "patronage": "Parish priests",
+    "qualities": [
+        "faith",
+        "humility",
+        "patience",
+        "compassion",
+        "perseverance"
+    ],
+    "causes": [
+        "priests",
+        "confession",
+        "parish life",
+        "pastoral ministry"
+    ],
+    "region": "Europe",
+    "country": "France",
+    "lifeThemes": [
+        "prayer",
+        "confession",
+        "pastoral care",
+        "sacrifice"
+    ],
+    "description": "Known for his devoted pastoral ministry as parish priest of Ars, his preaching, prayer, and dedication to the Sacrament of Reconciliation."
+},
+{
+    "id": "alphonsus-liguori",
+    "gender": "male",
+    "name": "St. Alphonsus Liguori",
+    "feastDay": "August 1",
+    "patronage": "Moral theologians",
+    "qualities": [
+        "faith",
+        "wisdom",
+        "compassion",
+        "perseverance",
+        "love of learning"
+    ],
+    "causes": [
+        "moral theology",
+        "confession",
+        "preaching",
+        "the poor"
+    ],
+    "region": "Europe",
+    "country": "Italy",
+    "lifeThemes": [
+        "teaching",
+        "mercy",
+        "evangelization",
+        "service"
+    ],
+    "description": "Known for his theological writings, preaching, concern for ordinary people, and founding of the Redemptorists."
+},
+{
+    "id": "peter-claver",
+    "gender": "male",
+    "name": "St. Peter Claver",
+    "feastDay": "September 9",
+    "patronage": "Slaves and enslaved people",
+    "qualities": [
+        "faith",
+        "compassion",
+        "courage",
+        "service",
+        "charity"
+    ],
+    "causes": [
+        "human dignity",
+        "enslaved people",
+        "the marginalized",
+        "mission"
+    ],
+    "region": "South America",
+    "country": "Colombia",
+    "lifeThemes": [
+        "mission",
+        "human dignity",
+        "service",
+        "compassion"
+    ],
+    "description": "Known for his ministry to enslaved people arriving in Cartagena and for dedicating his life to serving people who were suffering and marginalized."
+},
+{
+    "id": "thomas-the-apostle",
+    "gender": "male",
+    "name": "St. Thomas the Apostle",
+    "feastDay": "July 3",
+    "patronage": "Architects and builders",
+    "qualities": [
+        "faith",
+        "courage",
+        "honesty",
+        "perseverance",
+        "devotion"
+    ],
+    "causes": [
+        "evangelization",
+        "mission",
+        "faith",
+        "doubt and belief"
+    ],
+    "region": "Middle East",
+    "country": "Israel",
+    "lifeThemes": [
+        "faith",
+        "doubt",
+        "conversion",
+        "mission"
+    ],
+    "description": "Known as one of the Twelve Apostles and remembered for his honest struggle to believe in the Resurrection before encountering the risen Christ."
+},
+{
+    "id": "james-the-greater",
+    "gender": "male",
+    "name": "St. James the Greater",
+    "feastDay": "July 25",
+    "patronage": "Pilgrims and Spain",
+    "qualities": [
+        "faith",
+        "courage",
+        "devotion",
+        "perseverance",
+        "zeal"
+    ],
+    "causes": [
+        "pilgrims",
+        "evangelization",
+        "mission",
+        "travel"
+    ],
+    "region": "Middle East",
+    "country": "Israel",
+    "lifeThemes": [
+        "discipleship",
+        "mission",
+        "courage",
+        "faith"
+    ],
+    "description": "One of the Twelve Apostles and one of the first disciples called by Jesus. He was among the apostles present at important moments in Christ's ministry."
+},
+{
+    "id": "peter-the-apostle",
+    "gender": "male",
+    "name": "St. Peter the Apostle",
+    "feastDay": "June 29",
+    "patronage": "Fishermen and the papacy",
+    "qualities": [
+        "faith",
+        "courage",
+        "leadership",
+        "humility",
+        "perseverance"
+    ],
+    "causes": [
+        "Church leadership",
+        "evangelization",
+        "mission",
+        "conversion"
+    ],
+    "region": "Middle East",
+    "country": "Israel",
+    "lifeThemes": [
+        "leadership",
+        "conversion",
+        "discipleship",
+        "faith"
+    ],
+    "description": "One of the Twelve Apostles and a leading figure among the disciples of Jesus. After denying Christ during his Passion, Peter was restored and became a prominent witness to the Gospel."
+},
+{
+    "id": "paul-the-apostle",
+    "gender": "male",
+    "name": "St. Paul the Apostle",
+    "feastDay": "June 29",
+    "patronage": "Missionaries and evangelists",
+    "qualities": [
+        "faith",
+        "courage",
+        "zeal",
+        "perseverance",
+        "wisdom"
+    ],
+    "causes": [
+        "evangelization",
+        "mission",
+        "conversion",
+        "theology"
+    ],
+    "region": "Middle East",
+    "country": "Turkey",
+    "lifeThemes": [
+        "conversion",
+        "mission",
+        "evangelization",
+        "perseverance"
+    ],
+    "description": "Known for his dramatic conversion to Christ and extensive missionary work, through which he helped spread the Gospel throughout the ancient Mediterranean world."
+},
+{
+    "id": "andrew-the-apostle",
+    "gender": "male",
+    "name": "St. Andrew the Apostle",
+    "feastDay": "November 30",
+    "patronage": "Fishermen and Scotland",
+    "qualities": [
+        "faith",
+        "humility",
+        "courage",
+        "service",
+        "devotion"
+    ],
+    "causes": [
+        "evangelization",
+        "mission",
+        "fishermen",
+        "discipleship"
+    ],
+    "region": "Middle East",
+    "country": "Israel",
+    "lifeThemes": [
+        "discipleship",
+        "mission",
+        "faith",
+        "evangelization"
+    ],
+    "description": "One of the first disciples called by Jesus and the brother of St. Peter. He is remembered for bringing others to Christ and for his missionary witness."
+},
+{
+    "id": "matthew-the-apostle",
+    "gender": "male",
+    "name": "St. Matthew the Apostle",
+    "feastDay": "September 21",
+    "patronage": "Accountants and tax collectors",
+    "qualities": [
+        "faith",
+        "conversion",
+        "courage",
+        "service",
+        "perseverance"
+    ],
+    "causes": [
+        "evangelization",
+        "conversion",
+        "accounting",
+        "mission"
+    ],
+    "region": "Middle East",
+    "country": "Israel",
+    "lifeThemes": [
+        "conversion",
+        "discipleship",
+        "mission",
+        "evangelization"
+    ],
+    "description": "Traditionally identified as the tax collector called by Jesus to become one of the Twelve Apostles and associated with the Gospel according to Matthew."
+},
+{
+    "id": "mark-the-evangelist",
+    "gender": "male",
+    "name": "St. Mark the Evangelist",
+    "feastDay": "April 25",
+    "patronage": "Venice and notaries",
+    "qualities": [
+        "faith",
+        "courage",
+        "service",
+        "perseverance",
+        "zeal"
+    ],
+    "causes": [
+        "evangelization",
+        "Scripture",
+        "mission",
+        "writing"
+    ],
+    "region": "Middle East",
+    "country": "Egypt",
+    "lifeThemes": [
+        "evangelization",
+        "mission",
+        "Scripture",
+        "discipleship"
+    ],
+    "description": "Traditionally associated with the Gospel according to Mark and remembered as an important early Christian missionary and evangelist."
+},
+{
+    "id": "luke-the-evangelist",
+    "gender": "male",
+    "name": "St. Luke the Evangelist",
+    "feastDay": "October 18",
+    "patronage": "Physicians and artists",
+    "qualities": [
+        "faith",
+        "compassion",
+        "wisdom",
+        "service",
+        "love of learning"
+    ],
+    "causes": [
+        "medicine",
+        "evangelization",
+        "writing",
+        "the sick"
+    ],
+    "region": "Europe",
+    "country": "Greece",
+    "lifeThemes": [
+        "healing",
+        "evangelization",
+        "Scripture",
+        "compassion"
+    ],
+    "description": "Traditionally identified as a physician and companion of St. Paul and associated with the Gospel according to Luke and the Acts of the Apostles."
+},
+{
+    "id": "bartholomew-the-apostle",
+    "gender": "male",
+    "name": "St. Bartholomew the Apostle",
+    "feastDay": "August 24",
+    "patronage": "Leatherworkers",
+    "qualities": [
+        "faith",
+        "courage",
+        "devotion",
+        "perseverance",
+        "service"
+    ],
+    "causes": [
+        "evangelization",
+        "mission",
+        "discipleship",
+        "faith"
+    ],
+    "region": "Middle East",
+    "country": "Israel",
+    "lifeThemes": [
+        "discipleship",
+        "mission",
+        "faith",
+        "martyrdom"
+    ],
+    "description": "One of the Twelve Apostles, traditionally identified with Nathanael in the Gospel of John and remembered for his missionary witness."
+},
+{
+    "id": "philip-the-apostle",
+    "gender": "male",
+    "name": "St. Philip the Apostle",
+    "feastDay": "May 3",
+    "patronage": "Hatters",
+    "qualities": [
+        "faith",
+        "curiosity",
+        "courage",
+        "service",
+        "devotion"
+    ],
+    "causes": [
+        "evangelization",
+        "mission",
+        "discipleship",
+        "faith"
+    ],
+    "region": "Middle East",
+    "country": "Israel",
+    "lifeThemes": [
+        "discipleship",
+        "mission",
+        "faith",
+        "evangelization"
+    ],
+    "description": "One of the Twelve Apostles who followed Jesus and brought others to meet him. He is remembered for his witness to Christ and missionary discipleship."
+},
+{
+    "id": "cyril-of-alexandria",
+    "gender": "male",
+    "name": "St. Cyril of Alexandria",
+    "feastDay": "June 27",
+    "patronage": "Theologians",
+    "qualities": [
+        "faith",
+        "wisdom",
+        "courage",
+        "discipline",
+        "leadership"
+    ],
+    "causes": [
+        "theology",
+        "Church teaching",
+        "defending the faith",
+        "Scripture"
+    ],
+    "region": "North Africa",
+    "country": "Egypt",
+    "lifeThemes": [
+        "theology",
+        "leadership",
+        "defending the faith",
+        "wisdom"
+    ],
+    "description": "A bishop and major theologian of the early Church who played an important role in defending Christian teaching about the identity of Jesus Christ."
+},
+{
+    "id": "cyril",
+    "gender": "male",
+    "name": "St. Cyril",
+    "feastDay": "February 14",
+    "patronage": "Europe and educators",
+    "qualities": [
+        "wisdom",
+        "faith",
+        "service",
+        "perseverance",
+        "love of learning"
+    ],
+    "causes": [
+        "education",
+        "evangelization",
+        "mission",
+        "language"
+    ],
+    "region": "Eastern Europe",
+    "country": "Greece",
+    "lifeThemes": [
+        "mission",
+        "education",
+        "evangelization",
+        "culture"
+    ],
+    "description": "A missionary and scholar who, together with his brother Methodius, helped evangelize the Slavic peoples and contributed to the development of written language for their mission."
+},
+{
+    "id": "methodius",
+    "gender": "male",
+    "name": "St. Methodius",
+    "feastDay": "February 14",
+    "patronage": "Europe and missionaries",
+    "qualities": [
+        "faith",
+        "perseverance",
+        "courage",
+        "wisdom",
+        "service"
+    ],
+    "causes": [
+        "mission",
+        "evangelization",
+        "education",
+        "culture"
+    ],
+    "region": "Eastern Europe",
+    "country": "Greece",
+    "lifeThemes": [
+        "mission",
+        "evangelization",
+        "perseverance",
+        "education"
+    ],
+    "description": "A missionary bishop who worked with his brother Cyril to evangelize the Slavic peoples and translate Christian texts for their communities."
+},
+{
+    "id": "teresa-benedicta-of-the-cross",
+    "gender": "female",
+    "name": "St. Teresa Benedicta of the Cross",
+    "feastDay": "August 9",
+    "patronage": "Europe",
+    "qualities": [
+        "faith",
+        "courage",
+        "wisdom",
+        "perseverance",
+        "love of learning"
+    ],
+    "causes": [
+        "education",
+        "philosophy",
+        "women",
+        "conversion"
+    ],
+    "region": "Europe",
+    "country": "Germany",
+    "lifeThemes": [
+        "conversion",
+        "faith",
+        "intellectual life",
+        "sacrifice"
+    ],
+    "description": "A philosopher who converted to Catholicism, became a Carmelite nun, and was killed at Auschwitz during the Holocaust. She is remembered for her intellectual life, faith, and witness."
+},
+{
+    "id": "faustina-kowalska",
+    "gender": "female",
+    "name": "St. Faustina Kowalska",
+    "feastDay": "October 5",
+    "patronage": "Divine Mercy",
+    "qualities": [
+        "faith",
+        "humility",
+        "trust",
+        "perseverance",
+        "compassion"
+    ],
+    "causes": [
+        "Divine Mercy",
+        "prayer",
+        "spiritual life",
+        "the sick"
+    ],
+    "region": "Europe",
+    "country": "Poland",
+    "lifeThemes": [
+        "mercy",
+        "trust",
+        "prayer",
+        "suffering"
+    ],
+    "description": "A Polish religious sister whose spiritual writings and devotion to Divine Mercy became influential throughout the Catholic Church."
+},
+{
+    "id": "rose-philippine-duchesne",
+    "gender": "female",
+    "name": "St. Rose Philippine Duchesne",
+    "feastDay": "November 18",
+    "patronage": "Teachers",
+    "qualities": [
+        "faith",
+        "perseverance",
+        "courage",
+        "service",
+        "love of learning"
+    ],
+    "causes": [
+        "education",
+        "children",
+        "mission",
+        "Native Americans"
+    ],
+    "region": "North America",
+    "country": "United States",
+    "lifeThemes": [
+        "education",
+        "mission",
+        "service",
+        "perseverance"
+    ],
+    "description": "A French religious sister who came to the United States and dedicated much of her life to education and missionary work."
+},
+{
+    "id": "peter-julian-eymard",
+    "gender": "male",
+    "name": "St. Peter Julian Eymard",
+    "feastDay": "August 2",
+    "patronage": "Eucharistic devotion",
+    "qualities": [
+        "faith",
+        "devotion",
+        "prayer",
+        "service",
+        "perseverance"
+    ],
+    "causes": [
+        "Eucharist",
+        "adoration",
+        "prayer",
+        "vocations"
+    ],
+    "region": "Europe",
+    "country": "France",
+    "lifeThemes": [
+        "Eucharist",
+        "prayer",
+        "devotion",
+        "vocation"
+    ],
+    "description": "A French priest who dedicated his ministry to promoting love and devotion to the Eucharist and founded religious communities devoted to Eucharistic life."
+},
+{
+    "id": "john-fisher",
+    "gender": "male",
+    "name": "St. John Fisher",
+    "feastDay": "June 22",
+    "patronage": "Scholars",
+    "qualities": [
+        "faith",
+        "courage",
+        "integrity",
+        "perseverance",
+        "wisdom"
+    ],
+    "causes": [
+        "education",
+        "defending the faith",
+        "scholarship",
+        "martyrdom"
+    ],
+    "region": "Europe",
+    "country": "England",
+    "lifeThemes": [
+        "integrity",
+        "faith",
+        "scholarship",
+        "courage"
+    ],
+    "description": "An English bishop and scholar who remained faithful to his Catholic convictions and was executed during the English Reformation."
+},
+{
+    "id": "josemaria-escriva",
+    "gender": "male",
+    "name": "St. Josemaría Escrivá",
+    "feastDay": "June 26",
+    "patronage": "Workers and ordinary work",
+    "qualities": [
+        "faith",
+        "service",
+        "discipline",
+        "perseverance",
+        "joy"
+    ],
+    "causes": [
+        "work",
+        "workers",
+        "holiness in daily life",
+        "families"
+    ],
+    "region": "Europe",
+    "country": "Spain",
+    "lifeThemes": [
+        "ordinary life",
+        "work",
+        "holiness",
+        "family"
+    ],
+    "description": "A Spanish priest and founder of Opus Dei who emphasized seeking holiness through ordinary daily life, work, family, and personal responsibilities."
+},
+{
+    "id": "isaac-jogues",
+    "gender": "male",
+    "name": "St. Isaac Jogues",
+    "feastDay": "October 19",
+    "patronage": "North American missions",
+    "qualities": [
+        "faith",
+        "courage",
+        "perseverance",
+        "sacrifice",
+        "missionary spirit"
+    ],
+    "causes": [
+        "mission",
+        "evangelization",
+        "martyrdom",
+        "missionaries"
+    ],
+    "region": "North America",
+    "country": "United States",
+    "lifeThemes": [
+        "mission",
+        "sacrifice",
+        "perseverance",
+        "martyrdom"
+    ],
+    "description": "A French Jesuit missionary who served among Indigenous peoples in North America and was martyred during his missionary work."
+},
+{
+    "id": "rene-goupil",
+    "gender": "male",
+    "name": "St. René Goupil",
+    "feastDay": "October 19",
+    "patronage": "Missionaries",
+    "qualities": [
+        "faith",
+        "service",
+        "courage",
+        "humility",
+        "sacrifice"
+    ],
+    "causes": [
+        "mission",
+        "evangelization",
+        "healthcare",
+        "martyrdom"
+    ],
+    "region": "North America",
+    "country": "France",
+    "lifeThemes": [
+        "mission",
+        "service",
+        "sacrifice",
+        "martyrdom"
+    ],
+    "description": "A French Jesuit lay missionary and surgeon who accompanied missionaries in North America and was martyred while serving the mission."
+},
+{
+    "id": "jean-de-brebeuf",
+    "gender": "male",
+    "name": "St. Jean de Brébeuf",
+    "feastDay": "October 19",
+    "patronage": "Missionaries and Canada",
+    "qualities": [
+        "faith",
+        "courage",
+        "perseverance",
+        "sacrifice",
+        "missionary spirit"
+    ],
+    "causes": [
+        "mission",
+        "evangelization",
+        "Indigenous peoples",
+        "martyrdom"
+    ],
+    "region": "North America",
+    "country": "France",
+    "lifeThemes": [
+        "mission",
+        "sacrifice",
+        "perseverance",
+        "martyrdom"
+    ],
+    "description": "A French Jesuit missionary who served among Indigenous peoples in North America and was martyred during his missionary work."
+},
+{
+    "id": "andrew-kim-taegon",
+    "gender": "male",
+    "name": "St. Andrew Kim Taegon",
+    "feastDay": "September 20",
+    "patronage": "Korean clergy",
+    "qualities": [
+        "faith",
+        "courage",
+        "perseverance",
+        "sacrifice",
+        "missionary spirit"
+    ],
+    "causes": [
+        "mission",
+        "evangelization",
+        "martyrdom",
+        "clergy"
+    ],
+    "region": "East Asia",
+    "country": "South Korea",
+    "lifeThemes": [
+        "faith",
+        "mission",
+        "martyrdom",
+        "perseverance"
+    ],
+    "description": "The first Korean-born Catholic priest, who was martyred during a period of persecution of Christians in Korea."
+},
+{
+    "id": "paul-miki",
+    "gender": "male",
+    "name": "St. Paul Miki",
+    "feastDay": "February 6",
+    "patronage": "Japan",
+    "qualities": [
+        "faith",
+        "courage",
+        "perseverance",
+        "sacrifice",
+        "missionary spirit"
+    ],
+    "causes": [
+        "mission",
+        "evangelization",
+        "martyrdom",
+        "Japan"
+    ],
+    "region": "East Asia",
+    "country": "Japan",
+    "lifeThemes": [
+        "faith",
+        "mission",
+        "martyrdom",
+        "courage"
+    ],
+    "description": "A Japanese Jesuit who was martyred with other Christians during persecution in Japan and remained committed to proclaiming the Gospel."
+},
+{
+    "id": "charles-lwanga",
+    "gender": "male",
+    "name": "St. Charles Lwanga",
+    "feastDay": "June 3",
+    "patronage": "Youth and converts",
+    "qualities": [
+        "faith",
+        "courage",
+        "leadership",
+        "purity",
+        "perseverance"
+    ],
+    "causes": [
+        "youth",
+        "conversion",
+        "martyrdom",
+        "Africa"
+    ],
+    "region": "Africa",
+    "country": "Uganda",
+    "lifeThemes": [
+        "faith",
+        "courage",
+        "leadership",
+        "martyrdom"
+    ],
+    "description": "A Ugandan Christian and catechist who encouraged other young Christians during persecution and was martyred for his faith."
+},
+{
+    "id": "daniel-comboni",
+    "gender": "male",
+    "name": "St. Daniel Comboni",
+    "feastDay": "October 10",
+    "patronage": "Missions in Africa",
+    "qualities": [
+        "faith",
+        "courage",
+        "perseverance",
+        "compassion",
+        "missionary spirit"
+    ],
+    "causes": [
+        "Africa",
+        "mission",
+        "evangelization",
+        "human dignity"
+    ],
+    "region": "Africa",
+    "country": "Italy",
+    "lifeThemes": [
+        "mission",
+        "Africa",
+        "service",
+        "perseverance"
+    ],
+    "description": "An Italian bishop and missionary who devoted his life to evangelization and service in Africa and founded a missionary congregation."
+},
+{
+    "id": "francis-xavier-khang",
+    "gender": "male",
+    "name": "St. Francis Xavier Khang",
+    "feastDay": "July 17",
+    "patronage": "Vietnamese martyrs",
+    "qualities": [
+        "faith",
+        "courage",
+        "perseverance",
+        "service",
+        "sacrifice"
+    ],
+    "causes": [
+        "mission",
+        "evangelization",
+        "martyrdom",
+        "Vietnam"
+    ],
+    "region": "Southeast Asia",
+    "country": "Vietnam",
+    "lifeThemes": [
+        "faith",
+        "mission",
+        "martyrdom",
+        "courage"
+    ],
+    "description": "A Vietnamese priest and martyr who remained faithful to his Catholic ministry during persecution in Vietnam."
+},
+{
+    "id": "augustine-zhao-rong",
+    "gender": "male",
+    "name": "St. Augustine Zhao Rong",
+    "feastDay": "July 9",
+    "patronage": "Chinese martyrs",
+    "qualities": [
+        "faith",
+        "courage",
+        "perseverance",
+        "conversion",
+        "sacrifice"
+    ],
+    "causes": [
+        "mission",
+        "evangelization",
+        "martyrdom",
+        "China"
+    ],
+    "region": "East Asia",
+    "country": "China",
+    "lifeThemes": [
+        "conversion",
+        "faith",
+        "mission",
+        "martyrdom"
+    ],
+    "description": "A Chinese priest and martyr who is remembered with the many Chinese Christians who gave their lives for the Catholic faith."
+},
+{
+    "id": "andrew-dung-lac",
+    "gender": "male",
+    "name": "St. Andrew Dũng-Lạc",
+    "feastDay": "November 24",
+    "patronage": "Vietnamese martyrs",
+    "qualities": [
+        "faith",
+        "courage",
+        "perseverance",
+        "sacrifice",
+        "missionary spirit"
+    ],
+    "causes": [
+        "mission",
+        "evangelization",
+        "martyrdom",
+        "Vietnam"
+    ],
+    "region": "Southeast Asia",
+    "country": "Vietnam",
+    "lifeThemes": [
+        "faith",
+        "mission",
+        "martyrdom",
+        "perseverance"
+    ],
+    "description": "A Vietnamese priest and martyr who represents the many Christians who suffered persecution for the Catholic faith in Vietnam."
+},
+{
+    "id": "nicholas-owen",
+    "gender": "male",
+    "name": "St. Nicholas Owen",
+    "feastDay": "March 22",
+    "patronage": "Carpenters",
+    "qualities": [
+        "courage",
+        "faith",
+        "humility",
+        "service",
+        "perseverance"
+    ],
+    "causes": [
+        "persecution",
+        "clergy",
+        "service",
+        "martyrdom"
+    ],
+    "region": "Europe",
+    "country": "England",
+    "lifeThemes": [
+        "courage",
+        "service",
+        "persecution",
+        "martyrdom"
+    ],
+    "description": "An English Jesuit lay brother and skilled carpenter who built hiding places for priests during periods of persecution and was eventually martyred."
+},
+{
+    "id": "mark-ji-tianxiang",
+    "gender": "male",
+    "name": "St. Mark Ji Tianxiang",
+    "feastDay": "July 9",
+    "patronage": "People struggling with addiction",
+    "qualities": [
+        "faith",
+        "perseverance",
+        "courage",
+        "hope",
+        "humility"
+    ],
+    "causes": [
+        "addiction",
+        "persecution",
+        "martyrdom",
+        "China"
+    ],
+    "region": "East Asia",
+    "country": "China",
+    "lifeThemes": [
+        "perseverance",
+        "hope",
+        "faith",
+        "martyrdom"
+    ],
+    "description": "A Chinese Catholic physician and martyr who remained faithful to Christ despite persecution and a lifelong struggle with opium addiction."
+},
+{
+    "id": "alfonso-navarrete",
+    "gender": "male",
+    "name": "St. Alfonso Navarrete",
+    "feastDay": "June 1",
+    "patronage": "Missionaries",
+    "qualities": [
+        "faith",
+        "courage",
+        "perseverance",
+        "service",
+        "missionary spirit"
+    ],
+    "causes": [
+        "mission",
+        "evangelization",
+        "martyrdom",
+        "Japan"
+    ],
+    "region": "East Asia",
+    "country": "Spain",
+    "lifeThemes": [
+        "mission",
+        "evangelization",
+        "perseverance",
+        "martyrdom"
+    ],
+    "description": "A Spanish Dominican missionary who served in Japan and was martyred during the persecution of Christians."
+},
+{
+    "id": "pedro-calungsod",
+    "gender": "male",
+    "name": "St. Pedro Calungsod",
+    "feastDay": "April 2",
+    "patronage": "Young people and altar servers",
+    "qualities": [
+        "faith",
+        "courage",
+        "service",
+        "perseverance",
+        "missionary spirit"
+    ],
+    "causes": [
+        "youth",
+        "mission",
+        "evangelization",
+        "martyrdom"
+    ],
+    "region": "Southeast Asia",
+    "country": "Philippines",
+    "lifeThemes": [
+        "youth",
+        "mission",
+        "service",
+        "martyrdom"
+    ],
+    "description": "A young Filipino catechist and missionary who accompanied Jesuit missionaries to the Marianas and was killed while serving the mission."
+}
+]

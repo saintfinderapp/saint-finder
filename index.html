@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saint Finder</title>
+    <link rel="stylesheet" href="style.css"
+
+</head>
+<body>
+    
+    <div class="cross">✝</div>
+    <h1>Saint Finder</h1>
+    <p>Who Will You Walk With?</p>
+    <p class="description">Discover a saint who may inspire you on your journey of faith.</p>
+
+    <hr>
+
+    <button id="helpMeChooseButton" class="primary-button">Saint Finder</button>
+    <button id="chooseSaintButton" class="secondary-button">Generate a Saint</button>
+    <div class="candle-support">
+    <button id="candleButton" class="candle-button">
+        <span class="candle-icon">
+            <span class="candle-flame"></span>
+            <span class="candle-body"></span>
+        </span>
+        <span class="candle-text">
+            <strong>Light a Candle</strong>
+            <small>Support Saint Finder</small>
+        </span>
+    </button>
+</div>
+
+    <div id="saintResult" class=" saint-result"></div>
+
+    <div id="questionnaire"></div>
+    <div id="questionnaireResult"></div>
+
+<!-- Saint data is now loaded from saints.json -->
+<script src="script.js"></script>
+</body>
+</html>
