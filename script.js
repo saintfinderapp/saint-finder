@@ -179,6 +179,10 @@ if (matchingSaints.length === 0) {
     `;
 }).join("")}
 `;
+questionnaireResult.scrollIntoView({
+    behavior: "smooth",
+    block: "start"
+});
 
 document.querySelectorAll(".saint-choice").forEach(function(saintChoice) {
     saintChoice.addEventListener("click", function() {
@@ -216,6 +220,10 @@ document.querySelectorAll(".saint-choice").forEach(function(saintChoice) {
 
 <button id="startOverButton" class="start-over-button">Start Over</button>
 `;
+saintResult.scrollIntoView({
+    behavior: "smooth",
+    block: "start"
+});
 const startOverButton = document.getElementById("startOverButton");
 
 startOverButton.addEventListener("click", function() {
